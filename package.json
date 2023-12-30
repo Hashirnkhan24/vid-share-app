@@ -1,0 +1,11 @@
+{
+  "name": "vid-share-app",
+  "version": "1.0.0",
+  "description": "A bacjend in JavaScript for a video sharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hashir Khan",
+  "license": "ISC"
+}
